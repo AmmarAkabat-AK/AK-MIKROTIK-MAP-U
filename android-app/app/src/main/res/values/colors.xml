@@ -1,0 +1,11 @@
+<resources>
+    <color name="teal">#0D9488</color>
+    <color name="teal_dark">#0F766E</color>
+    <color name="bg">#0B1220</color>
+    <color name="surface">#111A2B</color>
+    <color name="on_surface">#E2E8F0</color>
+    <color name="muted">#94A3B8</color>
+    <color name="online">#22C55E</color>
+    <color name="offline">#EF4444</color>
+    <color name="amber">#F59E0B</color>
+</resources>

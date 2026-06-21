@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AK MikroTik Agent</string>
+    <string name="title">وكيل AK ميكروتيك</string>
+    <string name="subtitle">عميل محلي يربط راوترات MikroTik بالسيرفر</string>
+    <string name="server_label">عنوان السيرفر (WebSocket)</string>
+    <string name="status_connected">متصل بالسيرفر</string>
+    <string name="status_disconnected">غير متصل</string>
+    <string name="status_stopped">الخدمة متوقفة</string>
+    <string name="requests">الطلبات المنفّذة</string>
+    <string name="start">تشغيل الوكيل</string>
+    <string name="stop">إيقاف الوكيل</string>
+    <string name="boot">التشغيل التلقائي عند إقلاع الجهاز</string>
+    <string name="log_title">السجل</string>
+    <string name="notif_channel">حالة الوكيل</string>
+    <string name="notif_running">الوكيل يعمل في الخلفية</string>
+</resources>
